@@ -14,7 +14,7 @@ terraform {
     organization = "Devtestlab"
 
     workspaces {
-      name = "Test-API-Worspace"
+      name = "Terraform-aws-workspace"
     }
   }
 }
